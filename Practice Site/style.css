@@ -1,0 +1,45 @@
+body { 
+    font-family: sans-serif;
+	background-size:100%;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: #fff;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.active {
+    background-color: #0000ff;
+    color: #fff;
+}
+  table{
+  height:650px;
+  }
+  footer{
+margin-top:420px;
+}
+.drop {
+background-color:purple;
+color:white;
+padding:16px;
+font-size:16px;
+border:none;
+cursor:pointer;
+}
+.select {
+display:inline-block;
+position:relative;
+}
